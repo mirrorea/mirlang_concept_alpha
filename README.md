@@ -1,9 +1,9 @@
-# empty-honkit-project
+# Mir言語の基礎概念（α版）
 
-| コマンド | 説明 |
-| ------- | --- |
+| コマンド         | 説明                                |
+| ------------ | --------------------------------- |
 | `make start` | `http://localhost:4000` でプレビューを表示 |
-| `make stop` | プレビューを終了 |
-| `make build` | htmlファイルを生成 |
-| `make pdf` | pdfファイルを生成 (数式が多少崩れる) |
+| `make stop`  | プレビューを終了                          |
+| `make build` | htmlファイルを生成                       |
+| `make pdf`   | pdfファイルを生成 (数式が多少崩れる)             |
 
